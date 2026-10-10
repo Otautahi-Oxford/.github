@@ -13,4 +13,4 @@ You can find our main website at [otautahi-oxford.org] (currently underdevelopme
 
 [OO-model]: https://github/otautahi-oxford/oo-model
 [Drift]: https://github/otautahi-oxford/drift
-[otautahi-oxford]: https://otautahi-oxford.org
+[otautahi-oxford.org]: https://otautahi-oxford.org
